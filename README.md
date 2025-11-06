@@ -5,11 +5,11 @@
 
 
 ## 🚀 Sobre mim
-🌱 Atualmente, estou aprimorando minhas habilidades em Html, Css, JavaScript, Python, SQL, Git e GitHub.
+🌱 Atualmente, estou aprimorando minhas habilidades em Python, SQL, Html, Css, JavaScript, Git e GitHub.
 
 💼 Trabalho como Analista Financeiro em Fortscreen Indústria.
 
-💡 Tenho interesse em Front-end , Desenvolvedor de softwares e Análise de dados.
+💡 Tenho interesse em Análise de Dados, Análise de Dados Financeiros, Automações e Dev Web.
 
 📫 Como me encontrar: thaysse09@gmail.com
 
