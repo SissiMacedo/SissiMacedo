@@ -1,34 +1,55 @@
-# Thaysse Macêdo
+# Olá, eu sou Thaysse Macêdo! 👋
 
+### Analista de Controladoria | Especialista em Business Intelligence & Data Analytics
 
+![Controladoria](https://img.shields.io/badge/Focus-Finance_&_Tech-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Transforming_Data_into_Insights-success?style=flat-square)
 
+---
 
+## 🚀 Sobre Mim
 
-## 🚀 Sobre mim
-🌱 Atualmente, estou aprimorando minhas habilidades em Python, SQL, Html, Css, JavaScript, Git e GitHub.
+Analista de Controladoria focado em transformar dados complexos em inteligência de negócio, impulsionando a performance financeira e a tomada de decisões estratégicas.
 
-💼 Trabalho como Analista Financeiro em Fortscreen Indústria.
+Acredito que a controladoria moderna vai além das planilhas: ela utiliza automação, nuvem e análise preditiva para antecipar cenários e maximizar resultados.
 
-💡 Tenho interesse em Análise de Dados, Análise de Dados Financeiros, Automações e Dev Web.
+- 📈 Focado em: Performance Financeira, FP&A, Dashboards Estratégicos e Automação de Processos.
+- 💡 Atualmente explorando: Certificações Microsoft Azure para Análise de Dados.
+- 🎯 Objetivo: Apoiar lideranças com insights que geram valor real para a organização.
 
-📫 Como me encontrar: thaysse09@gmail.com
+---
 
+## 🛠️ Tecnologias e Ferramentas
 
-## 🛠 Habilidades
+### Análise e Visualização de Dados
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Programação e Bancos de Dados
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SissiMacedo)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+### Infraestrutura e Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Conecte-se comigo
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaysse-macêdo/)
+## 📊 Estatísticas do GitHub
 
-## Minhas Contribuições
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SissiMacedo&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SissiMacedo&layout=compact&langs_count=7&theme=visual_studio_code" />
+</p>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SissiMacedo&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SissiMacedo/dio-lab-open-source)
+---
+
+## 📫 Vamos nos conectar?
+
+Seja para discutir sobre o mercado financeiro, tecnologia ou projetos de análise de dados, estou sempre aberto a novas conexões!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thaysse-macedo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaysse09@gmail.com)
+
+---
