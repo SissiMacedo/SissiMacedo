@@ -53,23 +53,15 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
       </td>
       <td align="center">
-        <img src="https://api.iconify.design/simple-icons:microsoftpowerbi.svg?color=%23f2c811" alt="Power BI" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="35" height="40"/>
         <img src="https://api.iconify.design/simple-icons:microsoftexcel.svg?color=%23217346" alt="Excel" width="40" height="40"/>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-        <img src="https://api.iconify.design/logos:microsoft-sharepoint.svg" alt="SharePoint" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
       </td>
     </tr>
   </table>
 </div>
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SissiMacedo&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SissiMacedo&layout=compact&langs_count=7&theme=visual_studio_code" />
-</p>
