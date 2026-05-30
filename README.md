@@ -14,9 +14,9 @@
 <table>
   <tr>
     <td>
-      <i>Me chamo Thaysse Macêdo, sou graduada em Ciências Contábeis pela Faculdade Cearense, atualmente estudante de Análise e Desenvolvimento de Sistemas (ADS) e Data Science, IA e Analytics pela USP direciono minha carreira para a área de Dados Financeiros.  Minha formação é composta por uma transição estratégica, unindo o conhecimento em Ciências Contábeis, Análise de Sistemas e MBA em Data science unindo a inteligência financeira ao poder da tecnologia.</i>
+      <i>Me chamo <b>Thaysse Macêdo</b>, sou graduada em <b>Ciências Contábeis</b> pela Faculdade Cearense, atualmente estudante de Análise e Desenvolvimento de Sistemas (ADS) e Data Science, IA e Analytics pela USP direciono minha carreira para a área de <b>Dados Financeiros</b>.  Minha formação é composta por uma transição estratégica, unindo o conhecimento em <b>Ciências Contábeis, Análise de Sistemas e MBA em Data science</b> unindo a inteligência financeira ao poder da tecnologia.</i>
       <br><br>
-      <i>Meu foco é a aplicação de Data Analytics e Business Intelligence para otimizar processos financeiros, automatizar rotinas massivas e apoiar a tomada de decisão estratégica de lideranças através de dashboards dinâmicos, inteligência de negócio e modelos preditivos. <b>Script de Valor</b>.</i>
+      <i>Meu foco é a aplicação de <b>Data Analytics</b> e <b>Business Intelligence</b> para otimizar processos financeiros, automatizar rotinas massivas e apoiar a tomada de decisão estratégica de lideranças através de dashboards dinâmicos, inteligência de negócio e modelos preditivos.</i>
     </td>
     <td width="30%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdtcmNndmN6NXp0Z2N6bWh5N2t5NXFtc3R5bHlsbW9scXpndHh4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VvXg0yj3YwJJ6/giphy.gif" alt="Cat Coding GIF" width="100%">
